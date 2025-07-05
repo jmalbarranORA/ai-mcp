@@ -1,0 +1,1 @@
+/Users/jmalbarran/Library/CloudStorage/OneDrive-b-Thinkingsoftware/Obsidian/Oracle/Technic/OCI&AI/MCP/MCP - Training - Labs.md
