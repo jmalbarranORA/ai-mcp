@@ -10,3 +10,5 @@ opentelemetry-exporter-otlp>=1.32.1
 oci>=2.154.0
 oracledb>=3.1.1
 rapidfuzz>=3.13.0
+numpy<2.0
+sentence-transformers
